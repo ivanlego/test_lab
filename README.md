@@ -1,6 +1,7 @@
 php yii serve --port=8888
 
 http://localhost:8888/item/index?categoryId=3&limit=10
+
 http://localhost:8888/item/index2?categoryId=3&limit=10
 
 **Срок выполнения задания - 24 ч. 00 м. часа с момента его отправки.**
